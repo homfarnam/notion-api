@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "@notionhq/client": "^0.1.8",
+    "@zeit/next-css": "^1.0.1",
+    "line-column": "^1.0.2",
     "next": "latest",
+    "next-purgecss": "^4.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
